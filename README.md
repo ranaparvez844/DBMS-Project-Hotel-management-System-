@@ -5,7 +5,8 @@ This is a PHP project for managing hotel operations such as admin panel, recepti
 
 ## Features
 - **Admin Panel:** Manage hotel details, users, and system configurations.
-- **Receptionist:** Manage room bookings, guest check-ins and check-outs, and customer information.
+- **Receptionist:** Manage room bookings, guest check-ins and check-outs, and customer information
+-**Online Booking System:** make reservations online, Secure payment gateway.
 - **Booking Room:** Search and book rooms, manage booking details, and view booking history.
 - **Create Room:** Add new rooms, update room details, and manage room availability.
 
