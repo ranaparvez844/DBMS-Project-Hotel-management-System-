@@ -35,6 +35,8 @@ This is a PHP project for managing hotel operations such as admin panel, recepti
 
 9. Run the script http://localhost/'Your project name'
 
+10. Project Vedio Link :  https://drive.google.com/drive/folders/1rB3JCJU2CTYswks9QayNWO6y_DI3aVVu
+
 ## Contribution
 
 Md. Rana Mia
