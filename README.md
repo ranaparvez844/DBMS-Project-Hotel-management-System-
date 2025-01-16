@@ -35,7 +35,6 @@ This is a PHP project for managing hotel operations such as admin panel, recepti
 
 9. Run the script http://localhost/'Your project name'
 
-
 ## Contribution
 
 Md. Rana Mia
