@@ -49,9 +49,9 @@ Sylhet, Bangladesh
 
 
 ## Moderator
-Razorshi Prozzwal Talukder
-Department of Computer Science and Engineering
-North East University Bangladesh 
+Razorshi Prozzwal Talukder<br/>
+Department of Computer Science and Engineering<br/>
+North East University Bangladesh <br/>
 
 ## Acknowledgement
 
