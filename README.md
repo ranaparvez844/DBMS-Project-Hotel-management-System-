@@ -39,7 +39,7 @@ This is a PHP project for managing hotel operations such as admin panel, recepti
 
 ## Contribution
 
-Md. Rana Mia
+Md. Rana Mia<br/>
 Department of Computer Science and Engineering<br/>
 North East University Bangladesh<br/>
 Sylhet, Bangladesh<br/>
