@@ -17,7 +17,7 @@ This is a PHP project for managing hotel operations such as admin panel, recepti
 - CSS
 - JavaScript
 
-## How to run the Blood Bank & Donor Management System Using PHP and MySQL
+## How to run the Hotel Management System Using PHP and MySQL
 
 1. **Clone the repository:**
 
